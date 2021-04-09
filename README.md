@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devesh Shukla
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React & JS(Advanced)
-- 📫 React me at deveshshukla224@gmail.com or over my twitter handle @deveshshukla224
+- 📫 Reach me at deveshshukla224@gmail.com or over my twitter handle @deveshshukla224
 
 <!---
 deveshshukla224/deveshshukla224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
