@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devesh Shukla
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React & JS(Advanced)
+- 👀 I’m interested SDET Role
+- 🌱 I’m currently learning Playwright(JS /TS ) and API Automation ( Python - Request Module and BDD Framework)
 - 📫 Reach me at deveshshukla224@gmail.com or over my twitter handle @deveshshukla224
 
 <!---
